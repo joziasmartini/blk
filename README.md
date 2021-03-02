@@ -1,8 +1,8 @@
 # blk
-A dashboard for my personal projects made with laravel/breeze.
 
+A login and dashboard system made with laravel/breeze.
 
-### Start
+### Starting
 
 The following commands were used to start the project:
 
